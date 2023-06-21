@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "crTW+r+yELWcMNXtmuym+nWXK+iwzvRpXBfm2oWukEUtT4Mw5TzqvHgt95nR9ZtDdStQJgV19J71JGKwHSQvFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\307-07\\Documents\\Харсевич Пр-21\\CreditCal\\CreditCal\\CreditCal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\307-07\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\307-07\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\307-07\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\307-07\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\307-07\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

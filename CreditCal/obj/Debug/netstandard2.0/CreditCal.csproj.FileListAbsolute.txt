@@ -1,0 +1,17 @@
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\CreditCal.csproj.AssemblyReference.cache
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\CreditCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\CreditCal.AssemblyInfoInputs.cache
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\CreditCal.AssemblyInfo.cs
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\CreditCal.csproj.CoreCompileInputs.cache
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\bin\Debug\netstandard2.0\CreditCal.deps.json
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\bin\Debug\netstandard2.0\CreditCal.dll
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\bin\Debug\netstandard2.0\CreditCal.pdb
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\CreditCal.dll
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\refint\CreditCal.dll
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\CreditCal.pdb
+C:\Users\307-07\Documents\Харсевич Пр-21\CreditCal\CreditCal\obj\Debug\netstandard2.0\ref\CreditCal.dll
